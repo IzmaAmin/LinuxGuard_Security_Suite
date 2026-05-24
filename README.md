@@ -52,7 +52,21 @@ LinuxGuard/
 ├── screenshots/
 └── config/
 ```
+## Requirements
+Linux OS (Kali Linux recommended)
+Bash shell
+Root privileges for full functionality
 
+## Coming Soon Features
+
+This project is actively under development 
+
+## Upcoming modules:
+
+File Integrity Monitoring System (Coming Soon)
+Snapshot & System State Backup Module (Coming Soon)
+AI-based anomaly detection (Planned)
+Web-based dashboard (Future update)
 ## Educational Purpose
 
 LinuxGuard is developed for:
